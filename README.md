@@ -1,7 +1,7 @@
 # Hi there, I'm Prasenjit Paul! 👋
 
 ## 🚀 About Me
-I'm a **Quality Assurance Engineer** with 3+ years of experience in end-to-end automation, functional QA, and API testing. Currently working at **Cognizant Technology Solutions**, where I specialize in building scalable automation frameworks for web and mobile platforms, primarily in Travel & Hospitality and restaurant domains.
+I'm a **Quality Assurance Engineer** with 4+ years of experience in end-to-end automation, functional QA, and API testing. Currently working at **Cognizant Technology Solutions**, where I specialize in building scalable automation frameworks for web and mobile platforms, primarily in Travel & Hospitality and restaurant domains.
 
 - 🔭 Currently working on **AI-enhanced quality engineering** and **cloud-native testing**
 - 🌱 Learning **Playwright**, **Docker**, and **AI-Assisted Testing**
